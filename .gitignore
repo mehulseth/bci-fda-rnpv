@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw API downloads (rebuild with src/fetch_trials.py)
+data/raw/*
+!data/raw/.gitkeep
